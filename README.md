@@ -103,8 +103,8 @@ Analysis revealed performance discrepancies across different **Sales Channels/Ma
 ## 📬 Contact
 
 **Data Analyst** - *Portfolio Project*
-* [LinkedIn](https://www.linkedin.com/in/your-profile/)
-* [Email](mailto:your-email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/pham-ngoc-khanh/)
+* [Email](mailto:khanhpn.forwork@gmail.com)
 
 ---
 *Note: This project uses real e-commerce transaction data for demonstration purposes.*
